@@ -1,6 +1,7 @@
 # Hello! I'm Taylor Bolinger 👋
 
-🎓 **Master's Student in Software Engineering**  
+🎓 **Master's Student in Software Engineering** 
+
 📍 North Georgia
 
 🌐 [My Portfolio](https://github.com/taylorbolinger) | [LinkedIn](https://www.linkedin.com/in/taylor-bolinger-551200204/) | [Email](taylorchadwick0720@gmail.com)
