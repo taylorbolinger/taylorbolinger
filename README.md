@@ -49,7 +49,7 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
  
 - **Java Coding**
   I have 7 months of experience coding Java program. I have listed each program and their contents on my GitHub page.
-  - [GitHub Repository]((https://github.com/taylorbolinger/JavaCodingSamples)
+  - [GitHub Repository](https://github.com/taylorbolinger/JavaCodingSamples)
 **Let's Connect:**
 
 Feel free to check out my repositories and projects. I'm always open to collaborating on exciting new projects or discussing software engineering topics. You can reach me at taylorchadwick0720@gmail.com.
