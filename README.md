@@ -4,7 +4,7 @@
 
 📍 North Georgia
 
-🌐 [My Portfolio](https://github.com/taylorbolinger) | [LinkedIn](https://www.linkedin.com/in/taylor-bolinger-551200204/) | [Email](taylorchadwick0720@gmail.com)
+🌐 [My Portfolio](https://github.com/taylorbolinger) | [LinkedIn](https://www.linkedin.com/in/taylor-bolinger-551200204/) | Email - taylorchadwick0720@gmail.com
 
 ---
 
