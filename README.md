@@ -2,7 +2,7 @@
 
 🎓 **Master's Student in Software Engineering**  
 📍 North Georgia
-🌐 [Your Portfolio](https://yourportfolio.com) | [LinkedIn](https://www.linkedin.com/in/taylor-bolinger-551200204/) | [Email](taylorchadwick0720@gmail.com)
+🌐 My Portfolio (https://github.com/taylorbolinger) | LinkedIn (https://www.linkedin.com/in/taylor-bolinger-551200204/) | Email(taylorchadwick0720@gmail.com)
 
 ---
 
@@ -19,12 +19,12 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
 **Education:**
 
 - **Master of Science in Software Engineering**  
-  [Kennesaw State University], Expected Graduation: Fall 2025
+  Kennesaw State University, Expected Graduation: Fall 2025
   - GPA: 3.75
   - Relevant Coursework: Foundations of Software Engineering, Computational Thinking, Foundations of Databases and Web, Data Structures and Algorithms
 
 - **Bachelor of Science in Education**  
-  [University of North Georgia], Graduated: [2020], GPA: [4.0]
+  University of North Georgia, Graduated: 2020, GPA: 4.0
 
 **Experience:**
 
@@ -33,21 +33,21 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
 
 **Projects:**
 
-- **[What's For Dinner Responsive Web App]**  
-  A web application that allows families to collaboratively decide what's for dinner.  
+- **What's For Dinner Responsive Web App**  
+  A responsive web application that allows families to collaboratively decide what's for dinner.  
   - **Technologies:** Django, Python, MySQL, Bootstrap  
   - **Role:** Full-stack developer  
-  - [GitHub Repository](https://github.com/yourusername/project1) | [Live Demo](https://yourprojectlink.com)
+  - [GitHub Repository](https://github.com/taylorbolinger/WhatsForDinner)
 
-- **[Project 2 Title]**  
-  An interactive website for [brief description].  
-  - **Technologies:** HTML, CSS, JavaScript, Bootstrap  
-  - **Role:** Front-end developer  
-  - [GitHub Repository](https://github.com/yourusername/project2) | [Live Demo](https://yourprojectlink.com)
+- **Clean Co. Product Website**  
+  A website for a cleaning company that advertises their products.  
+  - **Technologies:** HTML  
+  - **Role:** Back End Developer
+  - [GitHub Repository](https://github.com/taylorbolinger/CleanCoProject) 
 
 **Let's Connect:**
 
-Feel free to check out my repositories and projects. I'm always open to collaborating on exciting new projects or discussing software engineering topics. You can reach me at [your.email@example.com](mailto:your.email@example.com).
+Feel free to check out my repositories and projects. I'm always open to collaborating on exciting new projects or discussing software engineering topics. You can reach me at taylorchadwick0720@gmail.com.
 
 ---
 
