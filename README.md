@@ -14,7 +14,7 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
 
 **Skills:**
 
-- **Languages:** Python, Java, HTML, CSS
+- **Languages:** Python, Java, HTML, CSS, SQL
 - **Frameworks & Libraries:** Django, Bootstrap
 - **Tools & Platforms:** VS Code, GitHub, MySQL, Figma
 
@@ -51,6 +51,9 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
   I have 7 months of experience coding Java program. I have listed each program and their contents on my GitHub page.
   - [GitHub Repository](https://github.com/taylorbolinger/JavaCodingSamples)
  
+- **Figma Wireframing Design for What's For Dinner Application**
+  I created the wireframing through Figma for my team's collaborative work on our responsive web app "What's for Dinner". I designed the framework with user experience and ease of use in mind.
+  - [Figma Link](https://www.figma.com/design/Db21qW7A94B8sRXSmQpS7C/What's-For-Dinner%3F?node-id=0-1&m=dev&t=FdN8jp4sG1pOAfGI-1) 
     
 **Let's Connect:**
 
