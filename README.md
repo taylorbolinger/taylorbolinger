@@ -26,8 +26,8 @@ I'm an aspiring software developer currently pursuing a master's degree in softw
   - Relevant Coursework: Foundations of Software Engineering, Computational Thinking, Foundations of Databases and Web, Data Structures and Algorithms
 
 - **Professional Software Engineering Master Certificate**
-  -Kennesaw State University, Completed: August 2024
-  -CeDiD: 2428-RCB0-TWRC
+  - Kennesaw State University, Completed: August 2024
+  - CeDiD: 2428-RCB0-TWRC
 
 - **Bachelor of Science in Education**  
   University of North Georgia, Graduated: 2020, GPA: 4.0
