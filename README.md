@@ -42,10 +42,11 @@
 
 ### 📌 **What’s For Dinner? – Responsive Meal Planner**
 **Tech Stack:** Django, Python, MySQL, Bootstrap, Figma  
-🛠️ Developed a **web app** for collaborative family meal planning and voting.  
-🛠️ Engineered an **interactive UI with Bootstrap** for seamless user engagement.  
-🛠️ Designed all wireframing and UI/UX elements in Figma to create a seamless user experience.  
-🔗 [View Repository] (https://github.com/taylorbolinger/WhatsForDinner)
+🛠️ Developed a **full-stack web application** for collaborative family meal planning and voting.  
+🛠️ Built the **interactive user interface** using Bootstrap for responsive design.  
+🛠️ Designed wireframes and managed all **UI/UX decisions** in Figma to ensure an intuitive experience.  
+🔗 [View Repository](https://github.com/taylorbolinger/WhatsForDinner)
+
 ---
 
 ### 📌 **OwlShot – Endless Runner Game**
