@@ -41,6 +41,16 @@
 
 ---
 
+### 📌 **MyRecipePlanner – Personal Recipe Manager Web App**  
+**Tech Stack:** HTML, CSS (Bootstrap), JavaScript  
+🛠️ Designed and built a fully responsive front-end application where users can **add, view, edit, delete, and search for recipes**.  
+🛠️ Used `localStorage` to save recipe data in the browser — no backend required.  
+🛠️ Features include **demo recipes**, a **search bar**, **responsive card layout**, and **edit/delete functionality**.  
+🛠️ Created for portfolio use to showcase **UI development**, **JavaScript logic**, and **mobile-first design**.  
+🔗 [View Live App](https://taylorbolinger.github.io/my-recipe-planner/) | [View Repository](https://github.com/taylorbolinger/my-recipe-planner)
+
+---
+
 ### 📌 **Human Resources Event Calendar**
 **Tech Stack:** Angular, SQL, Bootstrap  
 🛠️ Designed an **intranet event calendar** for corporate HR teams.  
