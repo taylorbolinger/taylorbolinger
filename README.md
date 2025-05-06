@@ -32,20 +32,20 @@
 
 ---
 
-### 📌 **Human Resources Event Calendar**
-**Tech Stack:** Angular, SQL, Bootstrap  
-🛠️ Designed an **intranet event calendar** for corporate HR teams.  
-🛠️ Created UI wireframes using **Figma** for an intuitive user experience.  
-🛠️ Led **requirements analysis & architecture discussions**.  
-
----
-
 ### 📌 **What’s For Dinner? – Responsive Meal Planner**
 **Tech Stack:** Django, Python, MySQL, Bootstrap, Figma  
 🛠️ Developed a **full-stack web application** for collaborative family meal planning and voting.  
 🛠️ Built the **interactive user interface** using Bootstrap for responsive design.  
 🛠️ Designed wireframes and managed all **UI/UX decisions** in Figma to ensure an intuitive experience.  
 🔗 [View Repository](https://github.com/taylorbolinger/WhatsForDinner)
+
+---
+
+### 📌 **Human Resources Event Calendar**
+**Tech Stack:** Angular, SQL, Bootstrap  
+🛠️ Designed an **intranet event calendar** for corporate HR teams.  
+🛠️ Created UI wireframes using **Figma** for an intuitive user experience.  
+🛠️ Led **requirements analysis & architecture discussions**.  
 
 ---
 
