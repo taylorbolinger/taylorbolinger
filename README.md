@@ -23,25 +23,39 @@
 
 ## 🔥 Featured Projects  
 
-### **📌 Human Resources Event Calendar**
-**Tech Stack:** Angular, SQL, Bootstrap 
+### 📌 **Project Management Web Application**
+**Tech Stack:** Angular, Java, Gradle, Bootstrap  
+🛠️ Collaborative full-stack project for managing software teams and tasks.  
+🛠️ Designed and implemented the **New Project page** and led UI/UX decisions based on Figma wireframes.  
+🛠️ Integrated frontend with backend services using Angular and REST APIs.  
+🔗 [View Repository](https://github.com/taylorbolinger/project-planning-team-project)
+
+---
+
+### 📌 **Human Resources Event Calendar**
+**Tech Stack:** Angular, SQL, Bootstrap  
 🛠️ Designed an **intranet event calendar** for corporate HR teams.  
 🛠️ Created UI wireframes using **Figma** for an intuitive user experience.  
 🛠️ Led **requirements analysis & architecture discussions**.  
 
-### **📌 What’s For Dinner? – Responsive Meal Planner**
+---
+
+### 📌 **What’s For Dinner? – Responsive Meal Planner**
 **Tech Stack:** Django, Python, MySQL, Bootstrap, Figma  
 🛠️ Developed a **web app** for collaborative family meal planning and voting.  
 🛠️ Engineered an **interactive UI with Bootstrap** for seamless user engagement.  
 🛠️ Designed all wireframing and UI/UX elements in Figma to create a seamless user experience.  
 
-### **📌 OwlShot – Endless Runner Game**
+---
+
+### 📌 **OwlShot – Endless Runner Game**
 **Tech Stack:** Unity, C#  
-🛠️ Collaborated with a team to plan and develop a Unity-based mobile game where players control an owl dodging obstacles. 
+🛠️ Collaborated with a team to plan and develop a Unity-based mobile game where players control an owl dodging obstacles.  
 🛠️ Integrated data science techniques to analyze player behavior and optimize difficulty levels.
 
+---
 
-### **📌 Embedded Systems: Smart Plant Pot**
+### 📌 **Embedded Systems: Smart Plant Pot**
 **Tech Stack:** C++, Microcontrollers  
 🛠️ Developed an **automated self-watering plant system** based on soil moisture levels.  
 🛠️ Implemented **embedded system logic** and real-time monitoring features.  
@@ -50,12 +64,13 @@
 
 ## 📫 Let’s Connect!  
 📧 Email: **taylorchadwick0720@gmail.com**    
-🔗 LinkedIn: **(https://www.linkedin.com/in/taylor-bolinger-551200204/)**  
+🔗 LinkedIn: [taylor-bolinger-551200204](https://www.linkedin.com/in/taylor-bolinger-551200204/)  
 
 ---
 
 🔥 **Fun Fact:** I transitioned from education to software engineering, blending creativity and logic to build **impactful user experiences**!  
 🚀 Always **learning, creating, and open to new opportunities**!  
+
 
 
 
